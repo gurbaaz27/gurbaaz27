@@ -1,5 +1,4 @@
-<img src="/assets/banner_opt.png"></img>
-
+<img src="https://raw.githubusercontent.com/gurbaaz27/gurbaaz27/master/assets/banner_opt.png" alt="WordCloud" width="100%">
 <!--
 **gurbaaz27/gurbaaz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
