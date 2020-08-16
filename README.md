@@ -1,4 +1,4 @@
-<img src="assets/banner_opt.png"></img>
+<img src="/assets/banner_opt.png"></img>
 
 <!--
 **gurbaaz27/gurbaaz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
