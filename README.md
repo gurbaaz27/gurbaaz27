@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--![Gurbaaz's github stats](https://github-readme-stats.vercel.app/api?username=gurbaaz27&show_icons=true&theme=dracula&text_color=fff6ea)-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gurbaaz27&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" />
- 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gurbaaz27&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
 
 ```javascript
 const gurbaaz = {
@@ -49,7 +48,8 @@ const gurbaaz = {
  </a>
  <a href="http://github.com/gurbaaz27">
  <img src="https://img.shields.io/github/followers/gurbaaz27?label=follow&style=social" />
- </a> 
+ </a>
+ <img align="right" src="https://komarev.com/ghpvc/?username=gurbaaz27&style=flat-square&color=ff69b4"  /> 
 </p>
 
 ---
