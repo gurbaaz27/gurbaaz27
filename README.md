@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--![Gurbaaz's github stats](https://github-readme-stats.vercel.app/api?username=gurbaaz27&show_icons=true&theme=dracula&text_color=fff6ea)-->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=gurbaaz27&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gurbaaz27&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea">
 
 ```javascript
 const gurbaaz = {
