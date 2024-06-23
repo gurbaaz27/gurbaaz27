@@ -19,17 +19,16 @@ Here are some ideas to get you started:
 
 ```javascript
 const gurbaaz = {
-  code: [Python, C/C++, Julia, Javascript, Go, Rust],
-  tools: [PyTorch, Django, Flask, Selenium],
-  tech-interests: ["deeplearning","cybersecurity","finance"],
-  other-interests: ["astronomy","reading-books","rubiks cube"],
+  code: [C/C++, Typescript, Go, Python, Rust, Javascript, Julia, Bash],
+  tools: [Next.js, PyTorch, Django, Flask, Selenium],
+  tech-interests: ["databases", "networks", "linux", "deeplearning", "cybersecurity", "finance"],
+  other-interests: ["billiards", "books", "rubiks"],
   education: {
-                degree: "BTech",
-                branch: "CSE",
-                college: "IIT Kanpur"
-             },
-  challenge: "Surviving the pandemic :|",
-  ever_ready2: "Work, learn and build together 😄"
+      degree: "BTech",
+      branch: "CSE",
+      college: "IIT Kanpur"
+  },
+  goal: "Work, learn and build together 😄"
 }
 ```
 
